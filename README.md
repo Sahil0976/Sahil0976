@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi.%F0%9F%91%8B%F0%9F%8F%BC%2C+I+am+Sahil;)</h1>
+<h1 align="center">https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi.%F0%9F%91%8B%F0%9F%8F%BC%2C+I+am+Sahil;</h1>
 
 <h3 align="center"><b>I am trying my best to learning python and java</b></h3>
 
