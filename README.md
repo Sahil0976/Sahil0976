@@ -1,5 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center"><b></b>Hi 👋, I am sahil</h1>b></h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+<h1 align="center"><b>Hi 👋, I am sahil</b></h1>
 <h3 align="center"><b>I am trying my best to learning python and java</b>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/469578/screenshots/3571026/conversation.gif")
 
