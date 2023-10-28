@@ -1,7 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&center=true&random=true&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Sahil+;From+India)](https://git.io/typing-svg)</p>
 
-
+<h1 align="center"><b>Hi.👋, I Am Sahil</b></h1>
 <h3 align="center"><b>I am trying my best to learning python and java</b></h3>
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/86/31/6e/86316e9551f2f9a403f2f4d9ba9c46d9.gif">
