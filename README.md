@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-[[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&center=true&random=true&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Sahil+;From+India)](https://git.io/typing-svg)</p>
-<p align="center">!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&center=true&random=true&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Sahil+;From+India)](https://git.io/typing-svg)</p>
+<p align="center">
 
 <h3 align="center"><b>I am trying my best to learning python and java</b></h3>
 
