@@ -4,6 +4,7 @@
 
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/86/31/6e/86316e9551f2f9a403f2f4d9ba9c46d9.gif">
+
 ##
 #### 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/www.pinterest.com/sahilansari78) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Waste_Past1306/) 
