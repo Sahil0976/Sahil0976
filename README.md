@@ -1,3 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<h1 align="center"><b></b>Hi 👋, I am sahil</h1>b></h1>
+<h3 align="center"><b>I am trying my best to learning python and java</b>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/469578/screenshots/3571026/conversation.gif")
 
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/www.pinterest.com/sahilansari78) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Waste_Past1306/) 
