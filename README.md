@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Project Name](https://github.com/your-repo)**
+- 🔭 I’m currently working on **My Fontend Skills**
 - 🌱 I’m currently learning **Python, JavaScript, and more!**
 - 💬 Ask me about **Backend Development, Bot Development, and Quantum Physics!**
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **[sahilansari@gmail.com](mailto:brokensahil6767@gmail.com)**
 - ⚡ Fun fact: **I love watching anime and exploring new tech!**
 
 ---
