@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/Sahil0976"><img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" alt="Twitter Follow"></a>
 </p>
 
 ## 🚀 About Me
