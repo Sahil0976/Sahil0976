@@ -1,4 +1,4 @@
-<h1>Hi.. I'm Farman Ansari!</h1>h1>
+<h1>Hi.. I'm Farman Ansari!</h1>
 <p>Welcome to my GitHub profile! I'm a intermediate developer passionate about learning and building exciting projects. This profile is a reflection of my journey as I explore different technologies and expand my skills.</p>
 
 <h2>🌱 About Me<h2>
