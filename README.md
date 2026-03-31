@@ -6,5 +6,5 @@
   <li>🎓 I'm Currently exploring the world of AI/ML.</li>
   <li>🌍 Also passionate about Machine Learning and Data Science.</li>
   <li>💬 I'm eager to connect and collaborate with other learners and developers.</li>
-  <li>📫 You can contact me here: <a href="mailto:sahilansari19920@outlook.com">Sahilansari19920@outlook.com</a>a</li>
+  <li>📫 You can contact me here: <a href="mailto:sahilansari19920@outlook.com">Sahilansari19920@outlook.com</a></li>
 </ul>
