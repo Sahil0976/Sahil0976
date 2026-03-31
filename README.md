@@ -1,7 +1,8 @@
 <h1>Hi.. I'm Farman Ansari!</h1>
 <p>Welcome to my GitHub profile! I'm a intermediate developer passionate about learning and building exciting projects. This profile is a reflection of my journey as I explore different technologies and expand my skills.</p>
 
-<h4>🌱 About Me
+<h4>🌱 About Me</h4>
+<h4>
 <ul>
   <li>🎓 I'm Currently exploring the world of AI/ML.</li>
   <li>🌍 Also passionate about Machine Learning and Data Science.</li>
