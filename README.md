@@ -1,6 +1,8 @@
 <h1>Hi.. I'm Farman Ansari!</h1>
 <p>Welcome to my GitHub profile! I'm a intermediate developer passionate about learning and building exciting projects. This profile is a reflection of my journey as I explore different technologies and expand my skills.</p>
 
+<img src="https://imgs.search.brave.com/cdtBBm-JQGJ5EmWjXr2BnydDtxPGX-H9qiqu5_JbjH8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDkzNjA5/NTkuanBn">
+
 <h4>🌱 About Me</h4>
 <h4>
 <ul>
