@@ -1,5 +1,8 @@
+<img scr="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" alt="bestgif">
+
 <h1>Hi.. I'm Farman Ansari!</h1>
 <p>Welcome to my GitHub profile! I'm a intermediate developer passionate about learning and building exciting projects. This profile is a reflection of my journey as I explore different technologies and expand my skills.</p>
+
 
 <h4>🌱 About Me</h4>
 <h4>
